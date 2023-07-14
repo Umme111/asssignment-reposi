@@ -170,6 +170,8 @@ button{
 .img4{
     font-size: 30px;
     font-weight: 700;
+    width: 300;
+    height: 400px;
    
 }
 #rec{
@@ -211,4 +213,7 @@ button{
 }
 .footer-description{
     margin-bottom: 50px;
+}
+.banner1-contain{
+    align-items: center;
 }
